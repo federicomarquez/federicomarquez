@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **fedemv93@gmail.com**
+ - 📫 How to reach me **fedemv93@gmail.com**
 <p align="left">
 </p>
 
